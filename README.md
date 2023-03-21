@@ -12,7 +12,7 @@ Quand vous clonez ce repository sur votre machine, vous devez le préparer pour 
 
 Si vous n'avez pas encore installé la base de données sur cette machine, créez là en utilisant le script de (ré)création de base de données que vous avez développé. Mettez le fichier SQLITE de la base de données dans le dossier `data`.
 
-Renommez le fichier `config.js.example` en `config.js`, et modifiez le pour remplacer le secret par une valeur sécurisée. Remplacez également le chemin du fichier de base de données par le bon chemin de l'endroit où vous avez installé votre base de données.
+Copiez le fichier `config.js.example` avec le nom `config.js`, et modifiez le pour remplacer le secret par une valeur sécurisée. Remplacez également le chemin du fichier de base de données par le bon chemin de l'endroit où vous avez installé votre base de données.
 
 Pour utiliser les informations sauvegardées dans le fichier `config.js`, vous pouvez faire comme suit :
 
